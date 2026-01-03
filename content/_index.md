@@ -1,23 +1,41 @@
 ---
 title: "Andrew Jonelis"
-description: "Assistant Teaching Professor of Economics at Syracuse University"
 ---
 
-# Andrew Jonelis
+![Andrew Jonelis](/files/profile.jpg)
 
-**Assistant Teaching Professor of Economics**  
+**Assistant Teaching Professor of Economics**
 Syracuse University
 
-I am an economist specializing in development economics and African political economy. My research examines how political institutions shape economic outcomes, with particular focus on regional favoritism, executive turnover, and the relationship between political structures and growth.
+I am economist specializing in development and institutions.
 
-Before joining Syracuse, I worked as a Research Analyst and PhD Intern at the International Monetary Fund, where I contributed to policy research on informal economies and productivity growth in developing countries.
+Before joining Syracuse, I worked at the International Monetary Fund as a Research Analyst and PhD Intern.
 
-I teach courses in macroeconomics and development economics, including Introductory and Intermediate Macroeconomics and Economics of Emerging Markets.
+I teach courses on economic development and macroeconomics.
 
 [Download CV](/files/jonelis_cv.pdf)
 
-## Contact
+##Contact
 
-- **Email:** awjoneli@syr.edu
-- **Office:** 110 Eggers Hall, Syracuse, NY
-- **Phone:** 219.718.5703
+-**Email:** awjoneli@syr.edu
+cat > content/_index.md << 'EOF'
+---
+title: "Andrew Jonelis"
+---
+
+![Andrew Jonelis](/files/profile.jpg)
+
+**Assistant Teaching Professor of Economics**
+Syracuse University
+
+I am economist specializing in development and institutions.
+
+Before joining Syracuse, I worked at the International Monetary Fund as a Research Analyst and PhD Intern.
+
+I teach courses on economic development and macroeconomics.
+
+[Download CV](/files/jonelis_cv.pdf)
+
+##Contact
+
+-**Email:** awjoneli@syr.edu
