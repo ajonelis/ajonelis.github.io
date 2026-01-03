@@ -1,6 +1,6 @@
 name: Deploy Hugo site to Pages
 
-on: 
+on:
   push:
     branches: [main]
   workflow_dispatch:
@@ -10,7 +10,7 @@ permissions:
   pages: write
   id-token: write
 
-concurrency: 
+concurrency:
   group: "pages"
   cancel-in-progress: false
 
@@ -26,12 +26,15 @@ jobs:
     steps:
       - name: Install Hugo CLI
         run: |
-          wget -0 ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkf -i ${{ runner.temp}}/hugo.deb
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Checkout
         uses: actions/checkout@v4
-        with: 
+        with:
           submodules: recursive
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
       - name: Build with Hugo
         run: |
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
@@ -46,7 +49,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
-    steps: 
-      - name: Deploy to Github Pages
+    steps:
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
