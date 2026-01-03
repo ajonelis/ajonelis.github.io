@@ -1,0 +1,4 @@
+theme = "hugo-blox-builder"
+baseURL = "https://ajonelis.github.io/"
+languageCode = "en-us"
+title = "Andrew Jonelis"
