@@ -1,5 +1,5 @@
 ---
-title: "Andrew Jonelis"
+title: ""
 ---
 
 ![Andrew Jonelis](/files/profile.jpg)

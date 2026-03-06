@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-description: "Teaching by Andrew Jonelis"
+hidemeta: true
 ---
 
 # Teaching
