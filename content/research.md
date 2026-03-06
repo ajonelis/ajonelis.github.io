@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Research by Andrew Jonelis"
+hidemeta: true
 ---
 
 # Research
