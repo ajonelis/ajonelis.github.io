@@ -11,9 +11,7 @@ description: "Curriculum Vitae - Andrew Jonelis"
 
 ## Education
 
-**PhD in Economics**, University of Kentucky, 2019  
-Dissertation: *Essays on Institutions and Development*  
-Advisor: Jenny Minier
+**PhD in Economics**, University of Kentucky, 2019
 
 **MA in Economics**, University of Kentucky, 2015
 
@@ -23,6 +21,7 @@ Advisor: Jenny Minier
 
 ## Selected Awards & Honors
 
+- Pew-Templeton GRF Grant, 2026
 - Online Sciathon Prize Winner, Lindau Nobel Meeting on Economic Sciences, 2020
 - Graduate Student Fellow, Public Choice Society, 2019
 - Excellence in Teaching, University of Kentucky, 2018
