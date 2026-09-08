@@ -7,6 +7,45 @@ description: "Media and social profiles for Andrew Jonelis"
 
 ---
 
+## Substack
+
+Economics writings and long-form commentary.
+
+<p>
+<a href="https://substack.com/@andrewjonelis" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #FF6719; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/></svg>
+Read my Substack
+</a>
+</p>
+
+---
+
+## X (Twitter)
+
+Short-form updates, thoughts, and economics news.
+
+<p>
+<a href="https://x.com/andrewjonelis" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #000000; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+Follow on X
+</a>
+</p>
+
+---
+
+## TikTok
+
+Bite-sized economics concepts and discussions.
+
+<p>
+<a href="https://www.tiktok.com/@macroproforyou" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #000000; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93v7.2c0 1.96-.5 3.96-1.82 5.36-1.5 1.49-3.59 2.28-5.69 2.28-3.22 0-6.08-2.26-6.73-5.38-.28-1.25-.2-2.58.2-3.8.44-1.25 1.25-2.39 2.31-3.21 1.43-1.05 3.31-1.42 5.02-1.22v4.22c-.67-.2-1.44-.14-2.07.2-.67.36-1.16 1.02-1.29 1.79-.16.82.02 1.68.58 2.29.56.59 1.41.83 2.19.7.73-.13 1.34-.63 1.62-1.33.19-.5.25-1.04.25-1.58V.02z"/></svg>
+Follow on TikTok
+</a>
+</p>
+
+---
+
 ## YouTube
 
 Economics content and educational videos.
