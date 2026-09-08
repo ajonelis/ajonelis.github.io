@@ -27,20 +27,14 @@ hidemeta: true
 
 ## Working Papers
 
-**"Signal of Strength? Executive Turnover, Legislative Alignment, and Economic Growth"**
+**"From Palace to Pavement: Scope of Favoritism in Africa"**
 
 ---
 
 ## Works in Progress
 
-**"From Palace to Pavement: The Extent of Favoritism in Africa"**
+**"Virtual Reality, Real Insight: Using Immersive Technology to Teach Economic Development"**
 
-**"No Country for Old Men: Demographics, Leadership Transitions, and Executive Institutions"** (with S. Lugauer)
+**"Candy Planner Problem: Learning the Knowledge of Markets"**
 
-**"Representation on the Highest Stage: Female Athletes at the Olympic Games and Economic Empowerment"** (with J. Minier, K. Riesing)
-
-**"Borders Change, Institutions Remain: Democratic Legacy and Modern Development"**
-
-**"'When's the vote!?' Election Frequency and Policy Volatility"**
-
-**"Shadows of the Pandemic: Informal Economy around the world post COVID-19"**
+**"Borders, Barriers, Beliefs: Terrain, Missions, and Cross-Border Religious Similarity"**
