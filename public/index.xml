@@ -1,11 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on Andrew Jonelis</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Andrew Jonelis</description>
-    <generator>Hugo</generator>
+    <title>Andrew Jonelis</title>
+    <link>https://ajonelis.github.io/</link>
+    <description>Recent content on Andrew Jonelis</description>
+    <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ajonelis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://ajonelis.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ajonelis.github.io/cv/</guid>
+      <description>Curriculum Vitae - Andrew Jonelis</description>
+    </item>
+    <item>
+      <title>Media</title>
+      <link>https://ajonelis.github.io/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ajonelis.github.io/media/</guid>
+      <description>Media and social profiles for Andrew Jonelis</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>https://ajonelis.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ajonelis.github.io/research/</guid>
+      <description>&lt;h1 id=&#34;research&#34;&gt;Research&lt;/h1&gt;
+&lt;h2 id=&#34;peer-reviewed-publications&#34;&gt;Peer-Reviewed Publications&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Protection for Sale: Evidence from Around the World&amp;rdquo;&lt;/strong&gt; (with W. Suwanprasert)&lt;br&gt;
+&lt;em&gt;Public Choice&lt;/em&gt; 191(1), 237-267, 2022&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;The Mystery of Missing Real Spillovers in Southern Africa: Some Facts and Possible Explanations&amp;rdquo;&lt;/strong&gt; (with O. Basdevant, B. Mircheva, S. Slavov)&lt;br&gt;
+&lt;em&gt;South African Journal of Economics&lt;/em&gt; 83(3), 371-389, 2015&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;policy-research&#34;&gt;Policy Research&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;The Informal Economy in Sub-Saharan Africa: Size and Determinants&amp;rdquo;&lt;/strong&gt; (with L. Medina, M. Cangul)&lt;br&gt;
+&lt;em&gt;IMF Working Paper Series&lt;/em&gt; 17(156), 2017&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>https://ajonelis.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ajonelis.github.io/teaching/</guid>
+      <description>&lt;h1 id=&#34;teaching&#34;&gt;Teaching&lt;/h1&gt;
+&lt;p&gt;I teach courses in macroeconomics and economic development, emphasizing real-world applications and helping students develop economic intuition.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;teaching-evaluations&#34;&gt;Teaching Evaluations&lt;/h2&gt;
+&lt;p&gt;Student evaluations consistently reflect strong performance across courses and semesters.&lt;/p&gt;
+&lt;h3 id=&#34;overall-evaluations-syracuse-university--university-of-kentucky&#34;&gt;Overall Evaluations (Syracuse University &amp;amp; University of Kentucky)&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Overall Teaching Evaluations&#34; loading=&#34;lazy&#34; src=&#34;https://ajonelis.github.io/files/jonelis_evaluations_overall.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;intermediate-macroeconomics-ecn302&#34;&gt;Intermediate Macroeconomics (ECN302)&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Intermediate Macro - Prepared for Class&#34; loading=&#34;lazy&#34; src=&#34;https://ajonelis.github.io/files/jonelis_inter_macro_evaluations_prepared.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Intermediate Macro - Explained Points Clearly&#34; loading=&#34;lazy&#34; src=&#34;https://ajonelis.github.io/files/jonelis_inter_macro_evaluations_clear.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;introductory-macroeconomics-ecn102&#34;&gt;Introductory Macroeconomics (ECN102)&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Intro Macro - Prepared for Class&#34; loading=&#34;lazy&#34; src=&#34;https://ajonelis.github.io/files/jonelis_intro_macro_evaluations_prepared.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Intro Macro - Explained Points Clearly&#34; loading=&#34;lazy&#34; src=&#34;https://ajonelis.github.io/files/jonelis_intro_macro_evaluations_clear.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
