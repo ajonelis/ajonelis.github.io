@@ -16,6 +16,10 @@ weight = 2
 name = "Teaching"
 url = "/teaching/"
 weight = 3
+[[menu.main]]
+name = "Media"
+url = "/media/"
+weight = 4
 
 [params]
 description = "Assistant Teaching Professor of Economics at Syracuse University"
