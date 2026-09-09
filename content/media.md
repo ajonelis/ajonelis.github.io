@@ -1,6 +1,6 @@
 ---
 title: "Media"
-description: "Media and social profiles for Andrew Jonelis"
+hideMeta: true
 ---
 
 # Media
@@ -11,8 +11,10 @@ description: "Media and social profiles for Andrew Jonelis"
 
 Professional updates and economic development commentary.
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="andrew-jonelis-49655131" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/andrew-jonelis-49655131?trk=profile-badge">Andrew Jonelis</a></div>
+<div style="width: 100%; overflow: hidden;">
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="andrew-jonelis-49655131" data-version="v1" style="width: 100%; display: block;"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/andrew-jonelis-49655131?trk=profile-badge">Andrew Jonelis</a></div>
+</div>
 
 <p>
 <a href="https://www.linkedin.com/in/andrew-jonelis-49655131" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #0A66C2; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">
@@ -27,7 +29,9 @@ Connect on LinkedIn
 
 Economics writings and long-form commentary.
 
+<div style="width: 100%; max-width: 600px; margin: 0 auto;">
 <iframe src="https://andrewjonelis.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white; margin-bottom: 20px;" frameborder="0" scrolling="no"></iframe>
+</div>
 
 <p>
 <a href="https://substack.com/@andrewjonelis" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #FF6719; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;">
@@ -42,8 +46,10 @@ Read my Substack
 
 Short-form updates, thoughts, and economics news.
 
+<div style="width: 100%; max-width: 600px; margin: 0 auto; min-height: 400px;">
 <a class="twitter-timeline" data-height="400" data-theme="light" href="https://twitter.com/andrewjonelis">Tweets by andrewjonelis</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 <p>
 <a href="https://x.com/andrewjonelis" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #000000; color: white; text-decoration: none; border-radius: 4px; font-weight: 500; margin-top: 20px;">
@@ -74,7 +80,7 @@ Follow on TikTok
 Economics content and educational videos.
 
 <script src="https://apis.google.com/js/platform.js"></script>
-<div class="g-ytsubscribe" data-channelid="UC4-7oZ0X07v7_6Yx9O6f6vA" data-layout="full" data-count="default"></div>
+<div class="g-ytsubscribe" data-channelid="UCdJJveJU0usH3qmIe9UDpjQ" data-layout="full" data-count="default"></div>
 <br/>
 
 <p>

@@ -19,7 +19,20 @@
       <link>https://ajonelis.github.io/media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ajonelis.github.io/media/</guid>
-      <description>Media and social profiles for Andrew Jonelis</description>
+      <description>&lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;linkedin&#34;&gt;LinkedIn&lt;/h2&gt;
+&lt;p&gt;Professional updates and economic development commentary.&lt;/p&gt;
+&lt;div style=&#34;width: 100%; overflow: hidden;&#34;&gt;
+    &lt;script src=&#34;https://platform.linkedin.com/badges/js/profile.js&#34; async defer type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+    &lt;div class=&#34;badge-base LI-profile-badge&#34; data-locale=&#34;en_US&#34; data-size=&#34;large&#34; data-theme=&#34;light&#34; data-type=&#34;HORIZONTAL&#34; data-vanity=&#34;andrew-jonelis-49655131&#34; data-version=&#34;v1&#34; style=&#34;width: 100%; display: block;&#34;&gt;&lt;a class=&#34;badge-base__link LI-simple-link&#34; href=&#34;https://www.linkedin.com/in/andrew-jonelis-49655131?trk=profile-badge&#34;&gt;Andrew Jonelis&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/andrew-jonelis-49655131&#34; target=&#34;_blank&#34; style=&#34;display: inline-flex; align-items: center; gap: 8px; padding: 12px 20px; background: #0A66C2; color: white; text-decoration: none; border-radius: 4px; font-weight: 500;&#34;&gt;
+&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;20&#34; height=&#34;20&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z&#34;/&gt;&lt;/svg&gt;
+Connect on LinkedIn
+&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
