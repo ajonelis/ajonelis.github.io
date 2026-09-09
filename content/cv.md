@@ -1,6 +1,6 @@
 ---
 title: "CV"
-description: "Curriculum Vitae - Andrew Jonelis"
+hideMeta: true
 ---
 
 # Curriculum Vitae
