@@ -5,6 +5,8 @@ hidemeta: true
 
 # Research
 
+[View my Google Scholar Profile](https://scholar.google.com/citations?user=DCt5ziwAAAAJ&hl=en)
+
 ## Peer-Reviewed Publications
 
 **"Protection for Sale: Evidence from Around the World"** (with W. Suwanprasert)  
